@@ -18,4 +18,4 @@ Possible answers can be:
 * etc
 
 
-**NOTE:** You only need to find one answer if there are multiple subsets meet the requirement. _Please don’t use brute force way to solve this question._
+**NOTE:** You only need to find one answer if there are multiple subsets meet the requirement. _Please don’t use brute force way to solve this question._ Your solution should be _clean_, _clear_, _well commented_, _and thoroughly tested_.
